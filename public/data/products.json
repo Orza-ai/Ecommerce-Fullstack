@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "name": "El fantasma de la ópera",
+        "author": "Leroux, Gastón",
+        "img": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/fe114424-0d21-4b4e-bf1b-956d23e36a3d/9788417430610.jpg",
+        "alt": "Libro El fantasma de la ópera",
+        "price": 15999,
+        "ISBN": 2789310548,
+        "category": "Terror"
+    },
+    {
+        "id": 2,
+        "name": "Los juegos del hambre",
+        "author": "Collins, Suzane",
+        "img": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/43933708-15ef-4879-9133-3f51ac968232/9789878120201.jpg",
+        "alt": "Libro Los juegos del hambre",
+        "price": 24999,
+        "ISBN": 4801753422,
+        "category": "Distopia"
+    },
+    {
+        "id": 3,
+        "name": "Rebelión en la granja",
+        "author": "Orwell, George",
+        "img": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/f62c655c-6f3d-4825-973b-a049045d4bf1/712b013e-42cd-4484-b29b-d4530217868c.jpg",
+        "alt": "Libro Rebelion en la granja",
+        "price": 18499,
+        "ISBN": 6491251058,
+        "category": "Distopia"
+    },
+    {
+        "id": 4,
+        "name": "Proyecto Hail Mary",
+        "author": "Weir, Andy",
+        "img": "https://m.media-amazon.com/images/I/8105B45vSLL._SL1500_.jpg",
+        "alt": "Libro Proyecto Hail Mary",
+        "price": 27999,
+        "ISBN": 4596447751,
+        "category": "Ciencia Ficción"
+    },
+    {
+        "id": 5,
+        "name": "Los siete maridos de Evelyn Hugo",
+        "author": "Jenkins Reid, Taylor",
+        "img": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/e56f47f0-41c8-41f8-8fc0-6818c0295df8/9789874777737.jpg",
+        "alt": "Libro Los siete maridos de Evelyn Hugo",
+        "price": 35000,
+        "ISBN": 9475144633,
+        "category": "Contemporáneo"
+    },
+
+    {
+        "id": 6,
+        "name": "Los jovenes de la elite",
+        "author": "Lu, Marie",
+        "img": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/c61a5683-c541-4ba9-b2e8-c3edafe7a43b/22deb852-9cd8-46e7-932a-c7d51a8daef5.jpg",
+        "alt": "Libro Los jovenes de la elite",
+        "price": 27999,
+        "ISBN": 6211287659,
+        "category": "Fantasía"
+    },
+    {
+        "id": 7,
+        "name": "Ley de lobos",
+        "author": "Bardugo, Leight",
+        "img": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/4393ade3-d6e7-4280-8cc8-c58f84513145/8354634d-74b0-4376-889d-65f93b89ab96.jpg",
+        "alt": "Libro Ley de lobos",
+        "price": 28500,
+        "ISBN": 8749117435,
+        "category": "Fantasía"
+    },
+    {
+        "id": 8,
+        "name": "Isla maldita",
+        "author": "Grisham, John",
+        "img": "https://data.livriz.com/media/mediaspace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/40fbedf1-fb57-4e02-be13-d96a80b41654/9789506447335_af6bb235-99ae-4386-b776-a32bc765a66d.jpg",
+        "alt": "Libro Isla maldita",
+        "price": 31000,
+        "ISBN": 7844736599,
+        "category": "Misterio"
+    },
+    {
+        "id": 9,
+        "name": "La canción de Aquiles",
+        "author": "Miller, Madeline",
+        "img": "https://data.livriz.com/media/mediaspace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/c6cc641d-6e3c-47ab-ac03-a1403021dca8/9788411485166_96c04e11-6495-4ba6-9d51-2bbeaf801aa9.jpg",
+        "alt": "Libro La canción de Aquiles",
+        "price":34999,
+        "ISBN": 1546784992,
+        "category": "Fantasía"
+    },
+    {
+        "id": 10,
+        "name": "Orgullo y prejuicio",
+        "author": "Austen, Jane",
+        "img": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/f1c56ae3-f9a6-46c5-9b3a-5740f20ae317/9788415618782.jpg",
+        "alt": "Libro Orgullo y prejuicio",
+        "price": 29599,
+        "ISBN": 7841732291,
+        "category": "Romance"
+    },
+    {
+        "id": 11,
+        "name": "Antes que se enfríe el café",
+        "author": "Kawaguchi, Toshikazu",
+        "img": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/709518ef-eee2-4cca-8068-f7ab375a5af8/315f67eb-4b1a-4647-9233-96d3044926bb.jpg",
+        "alt": "Libro Antes que se enfríe el café",
+        "price": 27699,
+        "ISBN": 1541822381,
+        "category": "Contemporáneo"
+    },
+    {
+        "id": 12,
+        "name": "Dune",
+        "author": "Herbert, Frank",
+        "img": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/6b96984b-05dd-4f30-80bc-15ef99834924/9789877254112.jpg",
+        "alt": "Libro Dune",
+        "price": 38699,
+        "ISBN": 3714233897,
+        "category": "Ciencia Ficción"
+    }
+]

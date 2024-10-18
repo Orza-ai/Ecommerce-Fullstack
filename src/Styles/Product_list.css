@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+}
+
+.book-container-product-list{
+    display: block;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 15px;
+    padding-bottom: 19.6px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 0px;
+    position: relative;
+    width: 200px;
+    height: fit-content;
+    background-color: rgb(241, 241, 241);
+}
+
+.book-image-product-list{
+    max-height: 280px;
+    min-height: 280px;
+    width: 170px;
+    margin-top: 15px;
+}
+
+.book-text-box{
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.book-name-product-list{
+    line-height: 23.04px;
+    margin-block-end: 1.44px;
+    margin-block-start: 1.44px;
+    margin-bottom: 2.50px;
+    margin-top: 1.44px;
+}
+
+.book-author-product-list{
+    margin-block-end: 7px;
+    margin-block-start: 1.44px;
+    margin-bottom: 10px;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+    margin-top: 1.44px;
+}
+
+.book-price-product.list{
+    font-size: 14.4px;
+    font-weight: 400;
+    line-height: 23px;
+}
+
+.book-detail-link-product-list{
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: rgb(67, 100, 67);
+    font-size: 20px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
