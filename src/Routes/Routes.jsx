@@ -7,7 +7,7 @@ import Carrito from "../Components/Carrito/Carrito"
 const RunPages = () => {
     return(
         <Routes>
-            <Route path="/" element={<Home/>} />
+            <Route path="/" element={<LoginRegister/>} />
             <Route path="*" element={<Error/>} />
             <Route path="/home" element={<Home/>} />
             <Route path="/micarrito" element={<Carrito/>} />
