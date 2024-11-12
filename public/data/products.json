@@ -7,7 +7,8 @@
         "alt": "Libro El fantasma de la ópera",
         "price": 15999,
         "ISBN": 2789310548,
-        "category": "Terror"
+        "category": "Terror",
+        "description": "El fantasma de la Opera cuenta la historia de Erik, un geniomusical desfigurado que frecuenta la Opera de Paris. Hipnotizado por el talento y la belleza de la joven soprano Christine, el fantasma la atrae como su protegida y se enamora ferozmente de ella. Pero Christine llama tambien la atencion de su amor de la infancia, el vizconde Raoul. Enloquecido por los celos, el fantasma se vuelve cada vez mas violento, y los jovenes amantes comprenden que su amor puede tener consecuencias mortales para ellos. Este relato de terror gotico sobre el amor no correspondido es una de las obras literarias mas influyentes de la historia que ha trascendido el mundo de las letras en sus numerosas adaptaciones cinematograficas y teatrales. Desde 1986, el musical inspirado en esta obra y compuesto por Andrew Lloyd Webber se ha convertido en uno de los espectaculos teatrales de mayor exito de todos los tiempos."
     },
     {
         "id": 2,
@@ -17,7 +18,8 @@
         "alt": "Libro Los juegos del hambre",
         "price": 24999,
         "ISBN": 4801753422,
-        "category": "Distopia"
+        "category": "Distopia",
+        "description": "En una oscura versión del futuro próximo, doce chicos y doce chicas se ven obligados a participar en un reality show llamado Los Juegos del Hambre. Solo hay una regla: matar o morir. Cuando Katniss Everdeen, una joven de dieciséis años se presenta voluntaria para ocupar el lugar de su hermana en los juegos, lo entiende como una condena a muerte. Sin embargo, Katniss ya ha visto la muerte de cerca y la supervivencia forma parte de su naturaleza."
     },
     {
         "id": 3,
@@ -27,7 +29,8 @@
         "alt": "Libro Rebelion en la granja",
         "price": 18499,
         "ISBN": 6491251058,
-        "category": "Distopia"
+        "category": "Distopia",
+        "description": "Los animales de la granja de los Jones se sublevan contra sus dueños humanos y los vencen. Pero la rebelión fracasará cuando, traicionando a su clase y a su propia identidad, algunos de los rebeldes comienzan a aliarse con los amos derrocados. Aunque Rebelión en el granja fue concebida como una despiadada sátira del stalinismo, el caracter abierto y universal de su mensaje hacen de este libro un extraordinario análisis de la corrupción que engendra el poder y un lucido exámen de las manipulaciones que sufre la verdad histórica en los momentos de transformación política."
     },
     {
         "id": 4,
@@ -37,7 +40,8 @@
         "alt": "Libro Proyecto Hail Mary",
         "price": 27999,
         "ISBN": 4596447751,
-        "category": "Ciencia Ficción"
+        "category": "Ciencia Ficción",
+        "description": "Un único astronauta. Una misión imposible. Un aliado que jamás habría imaginado. Ryland Grace es el único superviviente en una misión desesperada. Es la última oportunidad y, si fracasa, la humanidad y la Tierra misma perecerán. Claro que, de momento, él no lo sabe. Ni siquiera puede recordar su propio nombre, y mucho menos la naturaleza de su misión o cómo llevarla a cabo. Lo único que sabe es que ha estado en coma inducido durante mucho tiempo. Acaba de despertar y se encuentra a millones de kilómetros de su hogar, sin más compañía que la de dos cadáveres. Muertos sus compañeros de tripulación, y a medida que va recuperando confusamente los recuerdos, Grace se da cuenta de que se enfrenta a una misión imposible. Recorriendo el espacio en una pequeña nave, depende de él acabar con una amenaza de extinción para nuestra especie. Sin apenas tiempo y con el ser humano más cercano a años luz de distancia, habrá de conseguirlo estando completamente solo. ¿O no? Proyecto Hail Mary, una aventura interestelar irresistible como solo Andy Weir podía imaginar, es una historia de descubrimiento, especulación y supervivencia a la altura de El marciano y que nos lleva a lugares que nunca soñamos alcanzar."
     },
     {
         "id": 5,
@@ -47,7 +51,8 @@
         "alt": "Libro Los siete maridos de Evelyn Hugo",
         "price": 35000,
         "ISBN": 9475144633,
-        "category": "Contemporáneo"
+        "category": "Contemporáneo",
+        "description": "Evelyn Hugo, el ícono de Hollywood que se ha recluido en su edad madura, decide al fin contar la verdad sobre su vida llena de glamour y de escándalos. Pero cuando elige para ello a Monique Grant, una periodista desconocida, nadie se sorprende más que la misma Monique. Por qué ella ? Por qué ahora ? Monique no está precisamente en su mejor momento. Su marido la abandonó, y su vida profesional no avanza. Aún ignorando por que Evelyn la ha elegido para escribir su biografía. Monique esta decidida a aprovechar esa oportunidad para dar impulso a su carrera. Convocada al lujoso apartamento de Evelyn, Monique escucha fascinada mientras la actriz le cuenta su historia. Desde su llegada a Los Angeles en los años 50 hasta su decisión de abandonar su carrera en el espectáculo en los 80 – y desde luego, los siete maridos que tuvo en ese tiempo – Evelyn narra una historia de ambición implacable, amistad inesperada y un gran amor prohibido."
     },
 
     {
@@ -58,7 +63,8 @@
         "alt": "Libro Los jovenes de la elite",
         "price": 27999,
         "ISBN": 6211287659,
-        "category": "Fantasía"
+        "category": "Fantasía",
+        "description": "Una oscura historia fantástica acerca de cómo nacen los villanos. La fiebre de la sangre asoló Kenettra ?una isla-ciudad similar a la Venecia renacentista? hace diez años. Algunos de los supervivientes desarrollaron habilidades sobrehumanas debido a las cuales el pueblo les teme y les idolatra partes iguales. Les llaman los Jóvenes de la Élite. Adelina sobrevivió a la fiebre de la sangre. Y sus habilidades han despertado el interés de los tres bandos que se disputan el poder en la ciudad: el Eje de la Inquisición, la Sociedad de las Dagas y su propia familia. "
     },
     {
         "id": 7,
@@ -68,7 +74,8 @@
         "alt": "Libro Ley de lobos",
         "price": 28500,
         "ISBN": 8749117435,
-        "category": "Fantasía"
+        "category": "Fantasía",
+        "description": "Los lobos de acercan y un joven rey deberá enfrentarse a su mayor reto en el explosivo final de la bilogía superventas número 1 del New York Times: El rey marcado. El rey demonio. A la par que el inmenso ejército de Fjerda se prepara para la invasión, Nikolai Lantsov deberá hacer uso de todo su ingenio y su encanto (y quizá del monstruo que habita en su interior) para ganar esta batalla. Pero puede que ni el don del rey para conseguir lo imposible sea rival para la oscura amenaza que se aproxima. La bruja de las tormentas. Zoya Nazyalensky ha perdido demasiado en la guerra. Ha visto morir a su mentor y resucitar a su peor enemigo. Hará lo que haga falta para no tener que enterrar de nuevo a un ser querido. Ahora, su deber es aceptar plenamente sus poderes para convertirse en el arma que su país necesita. No importa lo que le cueste. La reina de los lamentos. Nina Zenik se arriesga a morir al infiltrarse en la capital de Fjerda. Y quizá su deseo de venganza le arrebate a su país la oportunidad de conseguir ser libre y a Nina la de lograr que su corazón sane al fin. Rey. General. Espía. Juntos deberán hallar un modo de forjar un futuro en mitad de las tinieblas. O ver cómo cae una nación."
     },
     {
         "id": 8,
@@ -78,7 +85,8 @@
         "alt": "Libro Isla maldita",
         "price": 31000,
         "ISBN": 7844736599,
-        "category": "Misterio"
+        "category": "Misterio",
+        "description": "Ha llegado el momento de regresar a Camino Island. El librero Bruce Cable protagoniza una nueva novela llena de sol, arena... y crimen..El librero Bruce Cable le cuenta a su amiga Mercer Mann una irresistible historia que bien podría inspirar su nueva novela. Una poderosa empresa constructora está usando todos sus recursos para reclamar la propiedad de una isla semidesierta frente a Florida. Solo la última habitante del lugar, Lovely Jackson, se interpone en su camino. Pero lo que la constructora desconoce es que se dice que Isla Oscura, fundada por esclavos hace trescientos años, está maldita: los ahogamientos, las desapariciones y la locura han sido el destino de los intrusos. Lovely afirma ser su legítima propietaria, aunque no tiene ninguna manera de probarlo. Pero con Cable, Mann y el abogado Steven Mahon luchando en su bando, la batalla solo acaba de empezar. Porque en esta isla con una historia violenta y misteriosa… el pasado nunca se deja atrás."
     },
     {
         "id": 9,
@@ -88,7 +96,8 @@
         "alt": "Libro La canción de Aquiles",
         "price":34999,
         "ISBN": 1546784992,
-        "category": "Fantasía"
+        "category": "Fantasía",
+        "description": "Grecia en la era de los héroes. Patroclo, un príncipe joven y torpe, ha sido exiliado al reino de Ftía, donde vive a la sombra del rey Peleo y su hijo divino, Aquiles. Aquiles, el mejor de los griegos, es todo lo que no es Patroclo: fuerte, apuesto, hijo de una diosa. Un día Aquiles toma bajo su protección al lastimoso príncipe y ese vínculo provisional da paso a una sólida amistad mientras ambos se convierten en jóvenes habilidosos en las artes de la guerra. Pero el destino nunca está lejos de los talones de Aquiles. Cuando se extiende la noticia del rapto de Helena de Esparta, se convoca a los hombres de Grecia para asediar la ciudad de Troya. Aquiles, seducido por la promesa de un destino glorioso, se une a la causa, y Patroclo, dividido entre el amor y el miedo por su compañero, lo sigue a la guerra. Poco podía imaginar que los años siguientes iban a poner a prueba todo cuanto habían aprendido y todo cuanto valoraban profundamente."
     },
     {
         "id": 10,
@@ -98,7 +107,8 @@
         "alt": "Libro Orgullo y prejuicio",
         "price": 29599,
         "ISBN": 7841732291,
-        "category": "Romance"
+        "category": "Romance",
+        "description": "La señora Bennet ha criado a sus cinco hijas con el único deseo de encontrar marido. La llegada al vecindario de Charles Bingley, un joven rico y soltero, con algunas amistades despierta el interés de las hermanas Bennet y de las familias vecinas, que verán una excelente oportunidad para cumplir su propósito. Elizabeth, una de las hijas de los Bennet, empezará una singular relación con Darcy, uno de los amigos de Bingley, que desencadenará esta historia de orgullo y prejuicios entre los dos hasta llegar a conocer el verdadero amor."
     },
     {
         "id": 11,
@@ -108,7 +118,8 @@
         "alt": "Libro Antes que se enfríe el café",
         "price": 27699,
         "ISBN": 1541822381,
-        "category": "Contemporáneo"
+        "category": "Contemporáneo",
+        "description": "Un rumor circula por Tokio... Oculta en uno de sus callejones hay una pequeña cafetería que merece la pena visitar no solo por su excelente café, sino también porque, si eliges bien la silla donde sentarte, puedes regresar al pasado. Pero como incluso lo increíble está sujeto a limitaciones, no podrás abandonar la cafetería mientras dure el viaje, volverás cuando se enfríe el café y, hagas lo que hagas, el presente no cambiará. A través de las emocionantes historias de cuatro clientes que deciden embarcarse en esta aventura por motivos diferentes, Antes de que se enfríe el café nos ofrece un relato atemporal sobre el amor, las oportunidades perdidas y la esperanza en un futuro que siempre está por llegar."
     },
     {
         "id": 12,
@@ -118,6 +129,7 @@
         "alt": "Libro Dune",
         "price": 38699,
         "ISBN": 3714233897,
-        "category": "Ciencia Ficción"
+        "category": "Ciencia Ficción",
+        "description": "En el desértico planeta Arrakis, el agua es el bien más preciado y llorar a los muertos, el símbolo de máxima prodigalidad. Pero algo hace de Arrakis una pieza estratégica para los intereses del Emperador, las Grandes Casas y la Cofradía, los tres grandes poderes de la galaxia. Arrakis es el único origen conocido de la melange, preciosa especia y uno de los bienes más codiciados del universo. Al duque Leto Atreides se le asigna el gobierno de este mundo inhóspito, habitado por los indómitos Fremen y monstruosos gusanos de arena de centenares de metros de longitud. Sin embargo, cuando la familia es traicionada, su hijo y heredero, Paul, emprenderá un viaje hacia un destino más grande del que jamás hubiese podido soñar."
     }
 ]

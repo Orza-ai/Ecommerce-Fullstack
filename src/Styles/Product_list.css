@@ -54,12 +54,9 @@
     line-height: 23px;
 }
 
-.book-detail-link-product-list{
-    margin-bottom: 10px;
+.book-link{
     text-decoration: none;
-    color: rgb(67, 100, 67);
-    font-size: 20px;
-    font-weight: 800;
     cursor: pointer;
+    color: inherit;
 }
 
